@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Милан Гилл Сингх\Desktop\C++\Packman\Project1\Source.cpp(46,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Милан Гилл Сингх\Desktop\C++\Packman\Project1\Source.cpp(194,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Милан Гилл Сингх\Desktop\C++\Packman\Project1\Source.cpp(263,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Милан Гилл Сингх\Desktop\C++\Packman\Project1\Source.cpp(263,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project1.vcxproj -> C:\Users\Милан Гилл Сингх\Desktop\C++\Packman\Project1\Debug\Project1.exe
